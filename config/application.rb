@@ -1,5 +1,5 @@
 require_relative "boot"
-
+require 'google/ads/google_ads'
 require "rails/all"
 
 # Require the gems listed in Gemfile, including any gems
